@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c9781c-bfda-4841-9571-7483fbcaaf9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HackerRankPracticeProblems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/algorithms/merge_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/mutate_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/que1_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/read_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/stack_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/str_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/str_split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicpython/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicpython/guessnum_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicpython/crwaldata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mylsy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicpython/guessnum_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicpython/guessnum_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +39,8 @@
     "Python.guessnum_game.executor": "Run",
     "Python.merge_sort.executor": "Run",
     "Python.mutate_string.executor": "Run",
+    "Python.mylsy.executor": "Run",
+    "Python.pig_project.executor": "Run",
     "Python.que1_string.executor": "Run",
     "Python.read_write.executor": "Run",
     "Python.stack_operation.executor": "Run",
@@ -59,10 +48,32 @@
     "Python.str_split.executor": "Run",
     "Python.substring.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "logic__problems"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.guessnum_game">
+  <component name="RunManager" selected="Python.mylsy">
+    <configuration name="crwaldata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPracticeProblems" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shivu\PycharmProjects\HackerRankPracticeProblems\basicpython\crwaldata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guessnum_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPracticeProblems" />
       <option name="ENV_FILES" value="" />
@@ -129,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mylsy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPracticeProblems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,33 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/stack_operation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="str_split" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPracticeProblems" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/str_split.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mylsy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mylsy" />
+        <item itemvalue="Python.crwaldata" />
         <item itemvalue="Python.guessnum_game" />
         <item itemvalue="Python.mutate_string" />
         <item itemvalue="Python.merge_sort" />
-        <item itemvalue="Python.stack_operation" />
-        <item itemvalue="Python.str_split" />
       </list>
     </recent_temporary>
   </component>

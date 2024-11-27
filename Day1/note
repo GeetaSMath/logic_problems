@@ -1,0 +1,38 @@
+egory 1: Basics (15 Programs)
+Print "Hello, World!"
+
+print("Hello, World!")
+Find the sum of two numbers.
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print("Sum:", a + b)
+Find the area of a circle.
+
+radius = float(input("Enter radius: "))
+area = 3.14 * radius ** 2
+print("Area of circle:", area)
+Check if a number is even or odd.
+
+Swap two numbers without a temporary variable.
+
+Find the maximum of three numbers.
+
+Convert Celsius to Fahrenheit.
+
+Find the factorial of a number.
+
+Check if a number is prime.
+
+Reverse a number.
+
+Check if a string is a palindrome.
+
+
+Find the GCD of two numbers.
+
+Find the LCM of two numbers.
+
+Generate a Fibonacci series.
+
+Find the sum of digits of a number.
