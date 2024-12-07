@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c9781c-bfda-4841-9571-7483fbcaaf9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basicpython/crwaldata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mylsy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicpython/crwaldata.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicpython/crwaldata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicpython/dictionary/squar_dict_comphrension.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicpython/dictionary/squar_dict_comphrension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basicpython/guessnum_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicpython/guessnum_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Python.pig_project.executor": "Run",
     "Python.que1_string.executor": "Run",
     "Python.read_write.executor": "Run",
+    "Python.squar_dict_comphrension.executor": "Run",
     "Python.stack_operation.executor": "Run",
     "Python.str_check.executor": "Run",
     "Python.str_split.executor": "Run",
@@ -51,7 +52,7 @@
     "git-widget-placeholder": "logic__problems"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.mylsy">
+  <component name="RunManager" selected="Python.squar_dict_comphrension">
     <configuration name="crwaldata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPracticeProblems" />
       <option name="ENV_FILES" value="" />
@@ -88,28 +89,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicpython/guessnum_game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPracticeProblems" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1/algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/algorithms/merge_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,13 +141,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="squar_dict_comphrension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPracticeProblems" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicpython/dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicpython/dictionary/squar_dict_comphrension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.squar_dict_comphrension" />
+        <item itemvalue="Python.guessnum_game" />
         <item itemvalue="Python.mylsy" />
         <item itemvalue="Python.crwaldata" />
-        <item itemvalue="Python.guessnum_game" />
         <item itemvalue="Python.mutate_string" />
-        <item itemvalue="Python.merge_sort" />
       </list>
     </recent_temporary>
   </component>

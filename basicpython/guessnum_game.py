@@ -1,5 +1,6 @@
 import random
 
+
 def guess_num():
     guess_num = random.randrange(100)
     chance = 7
@@ -9,10 +10,10 @@ def guess_num():
         guess_counter += 1
         my_guess = int(input("enter your guess: "))
 
-        if my_guess==guess_num:
+        if my_guess == guess_num:
             print("you won")
             break
-        elif guess_counter >=chance and my_guess!=guess_num:
+        elif guess_counter >= chance and my_guess != guess_num:
             print("try next time")
         elif my_guess < guess_num:
             print("less than guess number")
@@ -21,8 +22,3 @@ def guess_num():
 
 
 guess_num()
-
-
-
-
-
